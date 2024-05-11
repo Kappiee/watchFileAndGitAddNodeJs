@@ -1,0 +1,6 @@
+{
+    "watch": ["dist"],
+    "ignore": [],
+    "exec": "node dist/main.js",
+    "quiet": true
+  }
